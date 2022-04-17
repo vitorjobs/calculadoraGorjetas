@@ -6,7 +6,7 @@
  
 - Idealizador: Vítor Guedes
 - Projeto: Base do desenvolvimento WEB
-- Lado da força: Front-End e backEnd
+- Lado da força: Front-End e Back-End
 - Etapa: Minicurso de entrada
 
 # :clipboard: Apresentação
