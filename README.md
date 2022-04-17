@@ -1,8 +1,3 @@
-<p align="center">
-  :white_check_mark: <a href="https://andreadcsousa.github.io/onebitcode_calculadora/" target="_blank">Veja a página</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  :white_check_mark: <a href="https://onebitcode.com/" target="_blank">Conheça o OneBitCode</a>
-</p>
-
 # :computer: Projeto
  
 - Idealizador: Vítor Guedes
