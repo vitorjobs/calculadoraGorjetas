@@ -1,3 +1,7 @@
+# :art: Layout
+
+<img src=".github/img/layout.png" alt="Template do Projeto" width="100%">
+
 # :computer: Projeto
  
 - Idealizador: Vítor Guedes
@@ -19,8 +23,4 @@ A `Base do desenvolvimento WEB`, passa pelo básico do front-end com:
 
 Esse projeto foi desenvolvido com:
 
-<img src="./files/html.svg" width="100"><img src="./files/css.svg" width="100"><img src="./files/javascript.svg" width="100">
-
-# :art: Layout
-
-<img src="./files/calculadora.jpg" alt="" width="100%">
+<img src=".github/img/html.svg" width="100"><img src=".github/img/css.svg" width="100"><img src=".github/img/javascript.svg" width="100">
